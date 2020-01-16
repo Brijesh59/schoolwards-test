@@ -1,0 +1,1035 @@
+{
+  "project_info": {
+    "project_number": "419637589867",
+    "firebase_url": "https://school-9e2ce.firebaseio.com",
+    "project_id": "school-9e2ce",
+    "storage_bucket": "school-9e2ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419637589867:android:59f2aa2bdeab99e46dbe2e",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuna3peXgXvmDs7l1eWm4u3EPw8ZvxbFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419637589867-7k4bl6k7pcjsgge8bpma14okuugeid16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.schoolwards.MuktaiSchool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419637589867:android:ac5cfcd626eff0c6",
+        "android_client_info": {
+          "package_name": "com.bohiyaanam.newschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuna3peXgXvmDs7l1eWm4u3EPw8ZvxbFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419637589867-7k4bl6k7pcjsgge8bpma14okuugeid16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.schoolwards.MuktaiSchool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419637589867:android:6b8ef5d66c2454b86dbe2e",
+        "android_client_info": {
+          "package_name": "com.kulp.Test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuna3peXgXvmDs7l1eWm4u3EPw8ZvxbFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419637589867-7k4bl6k7pcjsgge8bpma14okuugeid16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.schoolwards.MuktaiSchool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419637589867:android:05af515ec8810eba",
+        "android_client_info": {
+          "package_name": "com.kupl.ajinkyataraschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuna3peXgXvmDs7l1eWm4u3EPw8ZvxbFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419637589867-7k4bl6k7pcjsgge8bpma14okuugeid16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.schoolwards.MuktaiSchool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419637589867:android:f10c77a48378f17c",
+        "android_client_info": {
+          "package_name": "com.kupl.ascendschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuna3peXgXvmDs7l1eWm4u3EPw8ZvxbFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419637589867-7k4bl6k7pcjsgge8bpma14okuugeid16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.schoolwards.MuktaiSchool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419637589867:android:23db4439ff0674cc",
+        "android_client_info": {
+          "package_name": "com.kupl.godshandschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuna3peXgXvmDs7l1eWm4u3EPw8ZvxbFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419637589867-7k4bl6k7pcjsgge8bpma14okuugeid16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.schoolwards.MuktaiSchool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419637589867:android:c4fc5d8f74fe469b",
+        "android_client_info": {
+          "package_name": "com.kupl.gsschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuna3peXgXvmDs7l1eWm4u3EPw8ZvxbFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419637589867-7k4bl6k7pcjsgge8bpma14okuugeid16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.schoolwards.MuktaiSchool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419637589867:android:4724a90a08c37421",
+        "android_client_info": {
+          "package_name": "com.kupl.jaihindschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuna3peXgXvmDs7l1eWm4u3EPw8ZvxbFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419637589867-7k4bl6k7pcjsgge8bpma14okuugeid16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.schoolwards.MuktaiSchool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419637589867:android:d8949a68eabbdcb0",
+        "android_client_info": {
+          "package_name": "com.kupl.jpschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuna3peXgXvmDs7l1eWm4u3EPw8ZvxbFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419637589867-7k4bl6k7pcjsgge8bpma14okuugeid16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.schoolwards.MuktaiSchool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419637589867:android:177af748969b1560",
+        "android_client_info": {
+          "package_name": "com.kupl.kacfschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuna3peXgXvmDs7l1eWm4u3EPw8ZvxbFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419637589867-7k4bl6k7pcjsgge8bpma14okuugeid16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.schoolwards.MuktaiSchool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419637589867:android:b099b5f182574476",
+        "android_client_info": {
+          "package_name": "com.kupl.laurelpraise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuna3peXgXvmDs7l1eWm4u3EPw8ZvxbFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419637589867-7k4bl6k7pcjsgge8bpma14okuugeid16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.schoolwards.MuktaiSchool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419637589867:android:df714c5e86951155",
+        "android_client_info": {
+          "package_name": "com.kupl.limraschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419637589867-6bca9skntvhhch1bt2bru01qlgp1rbn1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kupl.limraschool",
+            "certificate_hash": "cc83a25a0d99a23123eda3a1e2bf07931b96df93"
+          }
+        },
+        {
+          "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuna3peXgXvmDs7l1eWm4u3EPw8ZvxbFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419637589867-7k4bl6k7pcjsgge8bpma14okuugeid16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.schoolwards.MuktaiSchool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419637589867:android:dde3a6daef952ecb",
+        "android_client_info": {
+          "package_name": "com.kupl.mmschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuna3peXgXvmDs7l1eWm4u3EPw8ZvxbFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419637589867-7k4bl6k7pcjsgge8bpma14okuugeid16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.schoolwards.MuktaiSchool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419637589867:android:2f18505810510363",
+        "android_client_info": {
+          "package_name": "com.kupl.npschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuna3peXgXvmDs7l1eWm4u3EPw8ZvxbFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419637589867-7k4bl6k7pcjsgge8bpma14okuugeid16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.schoolwards.MuktaiSchool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419637589867:android:f12a66f35bb5b1c2",
+        "android_client_info": {
+          "package_name": "com.kupl.sahyadrischool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuna3peXgXvmDs7l1eWm4u3EPw8ZvxbFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419637589867-7k4bl6k7pcjsgge8bpma14okuugeid16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.schoolwards.MuktaiSchool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419637589867:android:ae639f6ca17980a6",
+        "android_client_info": {
+          "package_name": "com.kupl.school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419637589867-8sshp3vf7141518j3sdi92dn88u2ek43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kupl.school",
+            "certificate_hash": "cc83a25a0d99a23123eda3a1e2bf07931b96df93"
+          }
+        },
+        {
+          "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuna3peXgXvmDs7l1eWm4u3EPw8ZvxbFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419637589867-7k4bl6k7pcjsgge8bpma14okuugeid16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.schoolwards.MuktaiSchool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419637589867:android:f8f77a835f724351",
+        "android_client_info": {
+          "package_name": "com.kupl.schoolwards.arihantsolapur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuna3peXgXvmDs7l1eWm4u3EPw8ZvxbFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419637589867-7k4bl6k7pcjsgge8bpma14okuugeid16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.schoolwards.MuktaiSchool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419637589867:android:8626711a3ba52ea3",
+        "android_client_info": {
+          "package_name": "com.kupl.schoolwards.stmichaelteacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuna3peXgXvmDs7l1eWm4u3EPw8ZvxbFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419637589867-7k4bl6k7pcjsgge8bpma14okuugeid16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.schoolwards.MuktaiSchool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419637589867:android:b949e9f0752fef29",
+        "android_client_info": {
+          "package_name": "com.kupl.schoolwardsparentlibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuna3peXgXvmDs7l1eWm4u3EPw8ZvxbFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419637589867-7k4bl6k7pcjsgge8bpma14okuugeid16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.schoolwards.MuktaiSchool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419637589867:android:b21a4a9c65dfe677",
+        "android_client_info": {
+          "package_name": "com.kupl.smpesschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuna3peXgXvmDs7l1eWm4u3EPw8ZvxbFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419637589867-7k4bl6k7pcjsgge8bpma14okuugeid16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.schoolwards.MuktaiSchool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419637589867:android:50328d3443f77095",
+        "android_client_info": {
+          "package_name": "com.kupl.stmichaelschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuna3peXgXvmDs7l1eWm4u3EPw8ZvxbFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419637589867-7k4bl6k7pcjsgge8bpma14okuugeid16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.schoolwards.MuktaiSchool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419637589867:android:7556abe34e4960e8",
+        "android_client_info": {
+          "package_name": "com.kupl.svsschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuna3peXgXvmDs7l1eWm4u3EPw8ZvxbFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419637589867-7k4bl6k7pcjsgge8bpma14okuugeid16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.schoolwards.MuktaiSchool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419637589867:android:bfc1c29a77b82bd7",
+        "android_client_info": {
+          "package_name": "com.kupl.systelschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuna3peXgXvmDs7l1eWm4u3EPw8ZvxbFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419637589867-7k4bl6k7pcjsgge8bpma14okuugeid16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.schoolwards.MuktaiSchool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419637589867:android:7d69a3e4e01d43c8",
+        "android_client_info": {
+          "package_name": "com.kupl.ujjwalschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuna3peXgXvmDs7l1eWm4u3EPw8ZvxbFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419637589867-7k4bl6k7pcjsgge8bpma14okuugeid16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.schoolwards.MuktaiSchool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419637589867:android:a19defb0de578182",
+        "android_client_info": {
+          "package_name": "com.kupl.ujwalinternationalschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuna3peXgXvmDs7l1eWm4u3EPw8ZvxbFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419637589867-7k4bl6k7pcjsgge8bpma14okuugeid16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.schoolwards.MuktaiSchool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419637589867:android:7a99406f77559d6e",
+        "android_client_info": {
+          "package_name": "com.kupl.wiseupschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuna3peXgXvmDs7l1eWm4u3EPw8ZvxbFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419637589867-7k4bl6k7pcjsgge8bpma14okuugeid16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.schoolwards.MuktaiSchool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419637589867:android:0107df45b67b7ad1",
+        "android_client_info": {
+          "package_name": "com.kupl.xplodschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuna3peXgXvmDs7l1eWm4u3EPw8ZvxbFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419637589867-7k4bl6k7pcjsgge8bpma14okuugeid16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.schoolwards.MuktaiSchool"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419637589867:android:3cd46bfbece30fec",
+        "android_client_info": {
+          "package_name": "com.schoolwards.SVS"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuna3peXgXvmDs7l1eWm4u3EPw8ZvxbFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419637589867-2n62ddomuhnes1qr9bvkb75lk1asd1kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419637589867-7k4bl6k7pcjsgge8bpma14okuugeid16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.schoolwards.MuktaiSchool"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
